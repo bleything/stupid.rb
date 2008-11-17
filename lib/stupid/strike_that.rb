@@ -19,7 +19,7 @@
 # LICENSE.
 #
 
-module Flunch::StrikeThat
+module Stupid::StrikeThat
 	def reverse_it!
 		setters = self.methods.
 			select {|m| m =~ /=$/  }.

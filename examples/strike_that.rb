@@ -7,8 +7,8 @@ foo = Object.new
 foo.taguri = "Whaaaaaaaaaaaa?"
 foo.taguri
 
-require 'flunch'
-foo.extend Flunch::StrikeThat
+require 'stupid'
+foo.extend Stupid::StrikeThat
 foo.reverse_it!
 
 foo.taguri "I wish you hadn't done that"

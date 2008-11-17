@@ -14,7 +14,7 @@
 # LICENSE.
 #
 
-module Flunch::Whoops
+module Stupid::Whoops
 	def look_at_all_the_things_im_not_doing!
 		# pick a method at random to not do anymore, except...
 		#   * class or methods, because we need them to undef more methods later

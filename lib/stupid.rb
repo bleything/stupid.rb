@@ -14,9 +14,9 @@
 # LICENSE.
 #
 
-module Flunch
+module Stupid
 	VERSION = "9.9.9"
 end
 
-require 'flunch/strike_that'
-require 'flunch/whoops'
+require 'stupid/strike_that'
+require 'stupid/whoops'
